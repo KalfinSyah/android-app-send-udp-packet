@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Send UDP Packet</string>
+    <string name="send_udp_packet">SEND UDP PACKET</string>
+    <string name="custom_iteration">custom iteration</string>
+    <string name="custom_message">Custom Message</string>
+    <string name="heavy">heavy (default : 1)</string>
+    <string name="ipv4">ipv4 (default : 127.0.0.1)</string>
+    <string name="iteration">iteration (default : 1)</string>
+    <string name="message">message (default : hi!)</string>
+    <string name="port">port (default : 12345)</string>
+    <string name="logs">LOGS</string>
+</resources>
